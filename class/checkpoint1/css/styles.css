@@ -6,3 +6,16 @@ img {
     max-width: 600px;
     width: 100%;
 }
+
+.title, .contact, .name {
+    text-align: center;
+}
+
+.contact {
+    font-style: italic;
+}
+
+.experience{
+    background-color: darkblue;
+
+}
