@@ -27,13 +27,15 @@ img {
 }
 
 #wapo {
-    background-color:darkblue;
+    background-color:#33485e;
     font-color: white;
 
 }
 
-.experience{
-    background-color: darkblue;
+.experience, .education, .skills {
+    background-color: #33485e;
+    text-color: white;
+    font-family: sans-serif;Monteserrat;
 
 }
 
@@ -50,4 +52,6 @@ img {
     font-family:sans-serif; Montserrat;
 }
 
-.
+.jobdescrip {
+
+}
