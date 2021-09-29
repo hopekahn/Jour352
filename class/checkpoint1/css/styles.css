@@ -7,6 +7,10 @@ img {
     width: 100%;
 }
 
+.img{
+    text-align: right;
+}
+
 .name {
     text-align: center;
     font-family: sans-serif;
@@ -24,6 +28,7 @@ img {
 
 #wapo {
     background-color:darkblue;
+    font-color: white;
 
 }
 
@@ -31,3 +36,18 @@ img {
     background-color: darkblue;
 
 }
+
+.h3 {
+    font-family:
+}
+
+.h4 {
+    font-family:
+}
+
+.h5 {
+    font-family:
+    font-style: italic;
+}
+
+.
