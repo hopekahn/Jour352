@@ -7,8 +7,13 @@ img {
     width: 100%;
 }
 
+h2 {
+    color: #FFFFFF;
+    background-color: #33485e;
+}
+
 .img{
-    text-align: right;
+    align: right;
 }
 
 .name {
@@ -28,14 +33,14 @@ img {
 
 #wapo {
     background-color:#33485e;
-    font-color: white;
+    color: white;
 
 }
 
 .experience, .education, .skills {
+    color: #ffffff;
     background-color: #33485e;
-    text-color: white;
-    font-family: sans-serif;Monteserrat;
+    font-family: sans-serif; Monteserrat;
 
 }
 
@@ -48,8 +53,7 @@ img {
 }
 
 .h5 {
-    font-family:
-    font-family:sans-serif; Montserrat;
+    font-family: sans-serif; Montserrat;
 }
 
 .jobdescrip {
@@ -62,5 +66,5 @@ img {
 
 .jobdates {
     font-style: italic;
-    
+
 }
