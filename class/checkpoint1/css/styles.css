@@ -13,7 +13,7 @@ img {
 
 .name {
     text-align: center;
-    font-family: sans-serif;
+    font-family: sans-serif;Raleway;
 }
 
 .title {
@@ -54,4 +54,13 @@ img {
 
 .jobdescrip {
 
+}
+
+.jobplace {
+
+}
+
+.jobdates {
+    font-style: italic;
+    
 }
