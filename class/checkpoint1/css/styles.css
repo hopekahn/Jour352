@@ -12,14 +12,16 @@ img {
     align: right;
     max-width: 300px;
     width: 50%;
-    margin-right: 10px;
+    float: right;
+ margin: 0 0 0 15px;
 }
 
 .photo {
     align: right;
     max-width: 300px;
     width: 50%;
-    margin-right: 10px;
+    float: right;
+ margin: 0 0 0 15px;
 }
 
 .title {
