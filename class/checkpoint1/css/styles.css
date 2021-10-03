@@ -15,8 +15,10 @@ h2 {
     background-color: #33485e;
 }
 
-.img{
+.photo {
     align: right;
+    max-width: 400px;
+    width: 70%;
 }
 
 .name {
