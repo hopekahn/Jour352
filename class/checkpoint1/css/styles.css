@@ -38,18 +38,11 @@ img {
     color: #ffffff;
     background-color: #33485e;
     font-family: 'Nunito Sans', sans-serif;font-weight: 100;
-
-
-.jobdescrip {
-
 }
+
+
 
 .jobplace {
-
-}
-
-.jobdates {
-    font-style: italic;
 
 }
 
@@ -59,14 +52,14 @@ h2 {
 }
 
 h3 {
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;font-weight: 100;
 }
 
 h4 {
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;font-weight: 75;
 }
 
 h5 {
-    font-family:sans-serif;
+    font-family: 'Montserrat', sans-serif;font-weight: 100;
     font-style: italic;
 }
