@@ -1,3 +1,7 @@
+body {
+    width: 75%;
+}
+
 h1 {
     color: #33485e;
     font-family: 'Montserrat', sans-serif;font-weight: 100;
@@ -61,4 +65,8 @@ h5 {
 
 .firstjob{
 border-bottom: 1px solid black;
+}
+
+.secondjob {
+    border-bottom: 1px solid black;
 }
