@@ -41,11 +41,6 @@ img {
 }
 
 
-
-.jobplace {
-
-}
-
 h2 {
     color: #FFFFFF;
     background-color: #33485e;
@@ -62,4 +57,9 @@ h4 {
 h5 {
     font-family: 'Montserrat', sans-serif;font-weight: 100;
     font-style: italic;
+}
+
+.firstjob{
+    display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
+
 }
