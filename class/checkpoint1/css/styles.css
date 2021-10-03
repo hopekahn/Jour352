@@ -11,23 +11,6 @@ img {
     margin-right: 10px;
 }
 
-h2 {
-    color: #FFFFFF;
-    background-color: #33485e;
-}
-
-h3 {
-    font-family:sans-serif;
-}
-
-h4 {
-    font-family:sans-serif;
-}
-
-h5 {
-    font-family: sans-serif;
-}
-
 .photo {
     align: right;
     max-width: 300px;
@@ -72,4 +55,21 @@ h5 {
 .jobdates {
     font-style: italic;
 
+}
+
+.h2 {
+    color: #FFFFFF;
+    background-color: #33485e;
+}
+
+.h3 {
+    font-family:sans-serif;
+}
+
+.h4 {
+    font-family:sans-serif;
+}
+
+.h5 {
+    font-family: sans-serif;
 }
