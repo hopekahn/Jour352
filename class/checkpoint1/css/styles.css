@@ -74,9 +74,9 @@ h5 {
 }
 
 .firstjob{
-border-bottom: 1px solid black;
+border-bottom: 1px solid black; margin: auto;
 }
 
 .secondjob {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid black; margin: auto;
 }
