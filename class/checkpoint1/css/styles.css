@@ -1,7 +1,7 @@
 h1 {
     color: #33485e;
     font-family: sans-serif;
-
+    text-align: center;
 }
 
 img {
@@ -34,7 +34,7 @@ h2 {
     text-align: center;
 }
 
-.wapo {
+#wapo {
     background-color:#33485e;
     color: #ffffff;
 
