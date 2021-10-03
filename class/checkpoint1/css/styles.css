@@ -1,6 +1,6 @@
 body {
-    margin-left: 75%;
-    margin-right: 75%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 h1 {
@@ -30,7 +30,6 @@ img {
     font-style: italic;
     font-family: sans-serif;
     border-bottom: 1px solid black; width: 50%;
-
 }
 
 .contact {
