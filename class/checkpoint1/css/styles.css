@@ -1,7 +1,7 @@
 h1 {
     color: #33485e;
     font-family: sans-serif;
-    font-family: sans-serif; opensans;
+
 }
 
 img {
@@ -21,7 +21,7 @@ h2 {
 
 .name {
     text-align: center;
-    font-family: sans-serif; opensans;
+    font-family: sans-serif;
 }
 
 .title {
@@ -34,29 +34,29 @@ h2 {
     text-align: center;
 }
 
-#wapo {
+.wapo {
     background-color:#33485e;
-    color: white;
+    color: #ffffff;
 
 }
 
 .experience, .education, .skills {
     color: #ffffff;
     background-color: #33485e;
-    font-family: sans-serif; Monteserrat;
+    font-family: sans-serif;
 
 }
 
 .h3 {
-    font-family:sans-serif; Montserrat;
+    font-family:sans-serif;
 }
 
 .h4 {
-    font-family:sans-serif; Montserrat;
+    font-family:sans-serif;
 }
 
 .h5 {
-    font-family: sans-serif; Montserrat;
+    font-family: sans-serif;
 }
 
 .jobdescrip {
