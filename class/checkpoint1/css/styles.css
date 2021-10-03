@@ -5,9 +5,10 @@ h1 {
 }
 
 img {
-    max-width: 400px;
-    width: 70%;
     align: right;
+    max-width: 300px;
+    width: 50%;
+    margin-right: 10px
 }
 
 h2 {
@@ -29,8 +30,9 @@ h5 {
 
 .photo {
     align: right;
-    max-width: 400px;
-    width: 70%;
+    max-width: 300px;
+    width: 50%;
+    margin-right: 10px
 }
 
 .name {
