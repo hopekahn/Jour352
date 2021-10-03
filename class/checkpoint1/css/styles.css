@@ -29,7 +29,7 @@ img {
     text-align: center;
     font-style: italic;
     font-family: sans-serif;
-    border-bottom: 1px solid black; width: 50%;
+    border-bottom: 1px solid black; width: 50%; align: center;
 }
 
 .contact {
@@ -56,10 +56,14 @@ h2 {
 
 h3 {
     font-family: 'Montserrat', sans-serif;font-weight: 100;
+    margin: 0;
+   padding: 0;
 }
 
 h4 {
     font-family: 'Montserrat', sans-serif;font-weight: 75;
+    margin: 0;
+   padding: 0;
 }
 
 h5 {
