@@ -27,9 +27,9 @@ img {
 
 .title {
     text-align: center;
-    font-style: italic;
+    font-style:italic;
     font-family: sans-serif;
-    border-bottom: 1px solid black; width: 50%; align: center;
+    border-bottom: 1px solid black; width: 50%; align: center; 
 }
 
 .contact {
