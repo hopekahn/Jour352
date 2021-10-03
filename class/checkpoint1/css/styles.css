@@ -37,7 +37,8 @@ img {
 .experience, .education, .skills {
     color: #ffffff;
     background-color: #33485e;
-    font-family:sans-serif;
+    font-family: 'Nunito Sans', sans-serif;font-weight: 100;
+
 
 .jobdescrip {
 
