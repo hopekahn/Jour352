@@ -47,6 +47,10 @@ h5 {
     color: black;
 }
 
+.sides {
+    font-weight: normal;
+}
+
 .price {
     font-family: 'Raleway', sans-serif;
     font-style: italic;
