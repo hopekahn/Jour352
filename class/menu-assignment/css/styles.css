@@ -1,5 +1,78 @@
 /* font-family: "Raleway", sans-serif; */
 
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.masthead {
+    text-align: center;
+        color: #a8b2b5;
+}
+
+p#from {
+    text-transform: uppercase;
+    color: #888f99;
+}
+
+h2 {
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-color: grey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
 h3 {
-    color: red;
+    color: #ab1f18;
+    border-bottom: 1px;
+    border-bottom-style: dotted;
+    border-color: grey;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h6 {
+    color: #ab1f18;
+    text-transform: uppercase;
+}
+
+h5 {
+    color: black;
+}
+
+.price {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+
+.wings, .salad, .pizza, .meatball, .bbb, .linguine {
+    border: dotted;
+    border-color: lightgrey;
+    padding: 3px;
+    background-color: #e4ebed;
+}
+
+.space {
+    float: right;
+    margin: 0 0 0 15;
+}
+
+.bottom {
+    color: #a8b2b5;
+}
+
+p#book {
+    color: black;
+    font-weight: bold;
+}
+
+p#add {
+    font-style: italic;
 }
